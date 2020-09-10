@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Chest\\Desktop\\MSSA\\ISTA 421\\RamenHouseSln\\RamenProducts.Tests\\RamenProducts.Tests.csproj": {}
+    "C:\\Users\\Chest\\Documents\\GitHub\\Ramen-House\\RamenHouseSln\\RamenProducts.Tests\\RamenProducts.Tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Chest\\Desktop\\MSSA\\ISTA 421\\RamenHouseSln\\RamenProducts.Tests\\RamenProducts.Tests.csproj": {
+    "C:\\Users\\Chest\\Documents\\GitHub\\Ramen-House\\RamenHouseSln\\RamenProducts.Tests\\RamenProducts.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Chest\\Desktop\\MSSA\\ISTA 421\\RamenHouseSln\\RamenProducts.Tests\\RamenProducts.Tests.csproj",
+        "projectUniqueName": "C:\\Users\\Chest\\Documents\\GitHub\\Ramen-House\\RamenHouseSln\\RamenProducts.Tests\\RamenProducts.Tests.csproj",
         "projectName": "RamenProducts.Tests",
-        "projectPath": "C:\\Users\\Chest\\Desktop\\MSSA\\ISTA 421\\RamenHouseSln\\RamenProducts.Tests\\RamenProducts.Tests.csproj",
+        "projectPath": "C:\\Users\\Chest\\Documents\\GitHub\\Ramen-House\\RamenHouseSln\\RamenProducts.Tests\\RamenProducts.Tests.csproj",
         "packagesPath": "C:\\Users\\Chest\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Chest\\Desktop\\MSSA\\ISTA 421\\RamenHouseSln\\RamenProducts.Tests\\obj\\",
+        "outputPath": "C:\\Users\\Chest\\Documents\\GitHub\\Ramen-House\\RamenHouseSln\\RamenProducts.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Chest\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -27,8 +27,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\Chest\\Desktop\\MSSA\\ISTA 421\\RamenHouseSln\\RamenProducts\\RamenProducts.csproj": {
-                "projectPath": "C:\\Users\\Chest\\Desktop\\MSSA\\ISTA 421\\RamenHouseSln\\RamenProducts\\RamenProducts.csproj"
+              "C:\\Users\\Chest\\Documents\\GitHub\\Ramen-House\\RamenHouseSln\\RamenProducts\\RamenProducts.csproj": {
+                "projectPath": "C:\\Users\\Chest\\Documents\\GitHub\\Ramen-House\\RamenHouseSln\\RamenProducts\\RamenProducts.csproj"
               }
             }
           }
@@ -42,6 +42,16 @@
       "frameworks": {
         "netcoreapp3.1": {
           "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
             "Microsoft.NET.Test.Sdk": {
               "target": "Package",
               "version": "[16.5.0, )"
@@ -81,14 +91,14 @@
         }
       }
     },
-    "C:\\Users\\Chest\\Desktop\\MSSA\\ISTA 421\\RamenHouseSln\\RamenProducts\\RamenProducts.csproj": {
+    "C:\\Users\\Chest\\Documents\\GitHub\\Ramen-House\\RamenHouseSln\\RamenProducts\\RamenProducts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Chest\\Desktop\\MSSA\\ISTA 421\\RamenHouseSln\\RamenProducts\\RamenProducts.csproj",
+        "projectUniqueName": "C:\\Users\\Chest\\Documents\\GitHub\\Ramen-House\\RamenHouseSln\\RamenProducts\\RamenProducts.csproj",
         "projectName": "RamenProducts",
-        "projectPath": "C:\\Users\\Chest\\Desktop\\MSSA\\ISTA 421\\RamenHouseSln\\RamenProducts\\RamenProducts.csproj",
+        "projectPath": "C:\\Users\\Chest\\Documents\\GitHub\\Ramen-House\\RamenHouseSln\\RamenProducts\\RamenProducts.csproj",
         "packagesPath": "C:\\Users\\Chest\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Chest\\Desktop\\MSSA\\ISTA 421\\RamenHouseSln\\RamenProducts\\obj\\",
+        "outputPath": "C:\\Users\\Chest\\Documents\\GitHub\\Ramen-House\\RamenHouseSln\\RamenProducts\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Chest\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -114,6 +124,18 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
