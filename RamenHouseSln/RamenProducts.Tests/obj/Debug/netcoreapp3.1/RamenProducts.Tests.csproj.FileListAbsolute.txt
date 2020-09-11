@@ -131,6 +131,8 @@ C:\Users\Chest\Documents\GitHub\Ramen-House\RamenHouseSln\RamenProducts.Tests\bi
 C:\Users\Chest\Documents\GitHub\Ramen-House\RamenHouseSln\RamenProducts.Tests\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
 C:\Users\Chest\Documents\GitHub\Ramen-House\RamenHouseSln\RamenProducts.Tests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
 C:\Users\Chest\Documents\GitHub\Ramen-House\RamenHouseSln\RamenProducts.Tests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\Chest\Documents\GitHub\Ramen-House\RamenHouseSln\RamenProducts.Tests\obj\Debug\netcoreapp3.1\RamenProducts.Tests.csproj.CoreCompileInputs.cache
 C:\Users\Chest\Documents\GitHub\Ramen-House\RamenHouseSln\RamenProducts.Tests\obj\Debug\netcoreapp3.1\RamenProducts.Tests.dll
 C:\Users\Chest\Documents\GitHub\Ramen-House\RamenHouseSln\RamenProducts.Tests\obj\Debug\netcoreapp3.1\RamenProducts.Tests.pdb
+C:\Users\Chest\Documents\GitHub\Ramen-House\RamenHouseSln\RamenProducts.Tests\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\Users\Chest\Documents\GitHub\Ramen-House\RamenHouseSln\RamenProducts.Tests\bin\Debug\netcoreapp3.1\Moq.dll
+C:\Users\Chest\Documents\GitHub\Ramen-House\RamenHouseSln\RamenProducts.Tests\obj\Debug\netcoreapp3.1\RamenProducts.Tests.csproj.CoreCompileInputs.cache

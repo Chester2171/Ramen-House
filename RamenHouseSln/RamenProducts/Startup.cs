@@ -28,6 +28,7 @@ namespace RamenProducts
                 opts.UseSqlServer(
                     Configuration["ConnectionStrings:RamenHouseConnection"]);
             });
+            services.AddScoped<IStoreRepository, EFStoreRepository>();
         }
 
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
@@ -40,8 +41,12 @@ namespace RamenProducts
 
             app.UseEndpoints(endpoints =>
             {
+                endpoints.MapControllerRoute("pagination",
+                    "Products/Page{productPage}",
+                    new { Controller = "Home", action = "Index" });
                 endpoints.MapDefaultControllerRoute();
             });
+            SeedData.EnsurePopulated(app);
         }
     }
 }
