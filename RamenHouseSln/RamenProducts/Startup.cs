@@ -26,7 +26,7 @@ namespace RamenProducts
             services.AddDbContext<StoreDbContext>(opts =>
             {
                 opts.UseSqlServer(
-                    Configuration["ConnectionStrings:RamenHouseConnection"]);
+                    Configuration["ConnectionStrings:DbConnection"]);
             });
             services.AddScoped<IStoreRepository, EFStoreRepository>();
         }
