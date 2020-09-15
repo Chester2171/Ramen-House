@@ -136,3 +136,4 @@ C:\Users\Chest\Documents\GitHub\Ramen-House\RamenHouseSln\RamenProducts.Tests\ob
 C:\Users\Chest\Documents\GitHub\Ramen-House\RamenHouseSln\RamenProducts.Tests\bin\Debug\netcoreapp3.1\Castle.Core.dll
 C:\Users\Chest\Documents\GitHub\Ramen-House\RamenHouseSln\RamenProducts.Tests\bin\Debug\netcoreapp3.1\Moq.dll
 C:\Users\Chest\Documents\GitHub\Ramen-House\RamenHouseSln\RamenProducts.Tests\obj\Debug\netcoreapp3.1\RamenProducts.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Chest\Documents\GitHub\Ramen-House\RamenHouseSln\RamenProducts.Tests\bin\Debug\netcoreapp3.1\libman.json

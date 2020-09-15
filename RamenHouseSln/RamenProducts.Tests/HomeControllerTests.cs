@@ -23,7 +23,7 @@ namespace RamenProducts.Tests
             HomeController controller = new HomeController(mock.Object);
             // Act
             ProductsListViewModel result =
-                controller.Index().ViewData.Model as ProductsListViewModel;
+                controller.Index(null).ViewData.Model as ProductsListViewModel;
             // Assert
             Product[] prodArray = result.Products.ToArray();
             Assert.True(prodArray.Length == 2);
@@ -46,7 +46,7 @@ namespace RamenProducts.Tests
             controller.PageSize = 3;
             // Act
             ProductsListViewModel result =
-                controller.Index(2).ViewData.Model as ProductsListViewModel;
+                controller.Index(null, 2).ViewData.Model as ProductsListViewModel;
             // Assert
             Product[] prodArray = result.Products.ToArray();
             Assert.True(prodArray.Length == 2);
@@ -70,7 +70,7 @@ namespace RamenProducts.Tests
             new HomeController(mock.Object) { PageSize = 3 };
             // Act
             ProductsListViewModel result =
-            controller.Index(2).ViewData.Model as ProductsListViewModel;
+                controller.Index(null, 2).ViewData.Model as ProductsListViewModel;
             // Assert
             PagingInfo pageInfo = result.PagingInfo;
             Assert.Equal(2, pageInfo.CurrentPage);
