@@ -1,11 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.26124.0
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
 MinimumVisualStudioVersion = 15.0.26124.0
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RamenProducts", "RamenProducts\RamenProducts.csproj", "{7D4B9B40-2633-4E5B-97D0-1ED3F8DFAD91}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RamenProducts", "RamenProducts\RamenProducts.csproj", "{7D4B9B40-2633-4E5B-97D0-1ED3F8DFAD91}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RamenProducts.Tests", "RamenProducts.Tests\RamenProducts.Tests.csproj", "{C1FB066D-376F-458E-BCEC-4CE856AEEE07}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RamenProducts.Tests", "RamenProducts.Tests\RamenProducts.Tests.csproj", "{C1FB066D-376F-458E-BCEC-4CE856AEEE07}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,9 +15,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 		Release|x64 = Release|x64
 		Release|x86 = Release|x86
-	EndGlobalSection
-	GlobalSection(SolutionProperties) = preSolution
-		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{7D4B9B40-2633-4E5B-97D0-1ED3F8DFAD91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
@@ -44,5 +41,11 @@ Global
 		{C1FB066D-376F-458E-BCEC-4CE856AEEE07}.Release|x64.Build.0 = Release|Any CPU
 		{C1FB066D-376F-458E-BCEC-4CE856AEEE07}.Release|x86.ActiveCfg = Release|Any CPU
 		{C1FB066D-376F-458E-BCEC-4CE856AEEE07}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A61B29CA-F6C5-41CC-8040-E78DCFF508C3}
 	EndGlobalSection
 EndGlobal

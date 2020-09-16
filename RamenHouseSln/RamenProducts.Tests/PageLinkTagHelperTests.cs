@@ -7,7 +7,8 @@ using Moq;
 using RamenProducts.Infrastructure;
 using RamenProducts.Models.ViewModels;
 using Xunit;
-namespace SportsStore.Tests
+
+namespace RamenProducts.Tests
 {
     public class PageLinkTagHelperTests
     {
