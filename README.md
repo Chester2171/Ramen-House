@@ -1,7 +1,7 @@
 # <div align="center">RAMEN HOUSE</div>
  <div align="center">MSSA Demo Project - following Adam Freemans textbook</div>
 
-## Create Solution and Projects
+## <div align="center">Create Solution and Projects</div>
 
 ## <div align="center">Chapter 7</div>
 
