@@ -1,7 +1,9 @@
-# Ramen-House
- MSSA Demo Project - following Adam Freemans textbook
+# <div align="center">RAMEN HOUSE</div>
+ <div align="center">MSSA Demo Project - following Adam Freemans textbook</div>
 
-## Create Solution and Projects
+## <div align="center">Create Solution and Projects</div>
+
+## <div align="center">Chapter 7</div>
 
     dotnet new globaljson --sdk-version 3.1.101 --output RamenHouseSln/RamenProducts
     dotnet new web --no-https --output RamenHouseSln/RamenProducts --framework netcoreapp3.1
@@ -29,3 +31,21 @@
 
 * Migration vs Scaffolding?
     * Migration is a way to keep the database schema in sync with the EF Core model by preserving data.  Scaffolding a database produces an Entity Framework model from an existing database
+    
+## <div align="center">Chapter 8</div>
+
+![Figure 8.5](https://github.com/Chester2171/Ramen-House/blob/master/CH%208%20Figure%208.5.PNG)
+
+![Figure 8.10](https://github.com/Chester2171/Ramen-House/blob/master/CH%208%20Figure%208.10.PNG)
+
+![Figure 8.11](https://github.com/Chester2171/Ramen-House/blob/master/CH%208%20Figure%208.11.PNG)
+
+![CH 8 Tests](https://github.com/Chester2171/Ramen-House/blob/master/CH%208%20Tests.PNG)
+    
+    
+    
+    
+    
+    
+    
+    
