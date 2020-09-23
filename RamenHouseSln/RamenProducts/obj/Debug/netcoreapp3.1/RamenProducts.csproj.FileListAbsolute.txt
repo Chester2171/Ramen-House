@@ -73,3 +73,4 @@ C:\Users\Chest\Documents\GitHub\Ramen-House\RamenHouseSln\RamenProducts\obj\Debu
 C:\Users\Chest\Documents\GitHub\Ramen-House\RamenHouseSln\RamenProducts\obj\Debug\netcoreapp3.1\Razor\Pages\_CartLayout.cshtml.g.cs
 C:\Users\Chest\Documents\GitHub\Ramen-House\RamenHouseSln\RamenProducts\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
 C:\Users\Chest\Documents\GitHub\Ramen-House\RamenHouseSln\RamenProducts\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Chest\Documents\GitHub\Ramen-House\RamenHouseSln\RamenProducts\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\CartSummary\Default.cshtml.g.cs
