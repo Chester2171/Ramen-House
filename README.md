@@ -41,6 +41,16 @@
 ![Figure 8.11](https://github.com/Chester2171/Ramen-House/blob/master/CH%208%20Figure%208.11.PNG)
 
 ![CH 8 Tests](https://github.com/Chester2171/Ramen-House/blob/master/CH%208%20Tests.PNG)
+
+## <div align="center">Chapter 9</div>
+
+![CH 9 Figure 9.4](https://github.com/Chester2171/Ramen-House/blob/master/CH%209%20Figure%209.4.PNG)
+
+![CH 9 Figure 9.5](https://github.com/Chester2171/Ramen-House/blob/master/CH%209%20Figure%209.5.PNG)
+
+![CH 9 Figure 9.6](https://github.com/Chester2171/Ramen-House/blob/master/CH%209%20Figure%209.6.PNG)
+
+![CH 9 Tests](https://github.com/Chester2171/Ramen-House/blob/master/CH%209%20Tests.PNG)
     
     
     
