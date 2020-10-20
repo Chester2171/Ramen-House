@@ -95,3 +95,4 @@ C:\Users\Chest\Documents\GitHub\Ramen-House\RamenHouseSln\RamenProducts\obj\Debu
 C:\Users\Chest\Documents\GitHub\Ramen-House\RamenHouseSln\RamenProducts\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\Details.razor.g.cs
 C:\Users\Chest\Documents\GitHub\Ramen-House\RamenHouseSln\RamenProducts\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Admin\Editor.razor.g.cs
 C:\Users\Chest\Documents\GitHub\Ramen-House\RamenHouseSln\RamenProducts\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\Editor.razor.g.cs
+C:\Users\Chest\Documents\GitHub\Ramen-House\RamenHouseSln\RamenProducts\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
