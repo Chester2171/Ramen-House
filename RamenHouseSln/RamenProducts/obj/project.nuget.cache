@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "1W41eiNAgGn+FNZ1ivPFeoay1MK+tOPKsI3+Lvka4ZjjMBLKwyPNcKQ1Yk4NcV9xA3zYZEByJQ9aB32Ezct1Kw==",
+  "dgSpecHash": "YtGRWVJuTdapCE1KebCJ5cuzp2q+veRiKzsIoWvwc2i/mwZVpVz2pk/d3gO1hMBB8ek4qQWZHeouPcdm+QFv+g==",
   "success": true,
   "projectFilePath": "C:\\Users\\Chest\\Documents\\GitHub\\Ramen-House\\RamenHouseSln\\RamenProducts\\RamenProducts.csproj",
   "expectedPackageFiles": [
@@ -35,6 +35,7 @@
     "C:\\Users\\Chest\\.nuget\\packages\\microsoft.identity.client\\3.0.8\\microsoft.identity.client.3.0.8.nupkg.sha512",
     "C:\\Users\\Chest\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
     "C:\\Users\\Chest\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\Chest\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512",
     "C:\\Users\\Chest\\.nuget\\packages\\microsoft.win32.primitives\\4.3.0\\microsoft.win32.primitives.4.3.0.nupkg.sha512",
     "C:\\Users\\Chest\\.nuget\\packages\\microsoft.win32.registry\\4.5.0\\microsoft.win32.registry.4.5.0.nupkg.sha512",
     "C:\\Users\\Chest\\.nuget\\packages\\moq\\4.14.5\\moq.4.14.5.nupkg.sha512",

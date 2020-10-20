@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "9BcFdf5uzR3GM0JNugvufwXt0oJhLcHGjPGm3qtaGEtAD8kg2XD4rMwaN9wvBE9uYbGfrr4oV9pUZkX7w+BXsA==",
+  "dgSpecHash": "9y8gjoOuqXZUwq0afYGE50TLYGkWtbPc+lRRK5D0x2uDjpcWBV1QA6sHepSwx/9XABwkyQFh0U0qqsxAwEV68w==",
   "success": true,
   "projectFilePath": "C:\\Users\\Chest\\Documents\\GitHub\\Ramen-House\\RamenHouseSln\\RamenProducts.Tests\\RamenProducts.Tests.csproj",
   "expectedPackageFiles": [
@@ -40,6 +40,7 @@
     "C:\\Users\\Chest\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
     "C:\\Users\\Chest\\.nuget\\packages\\microsoft.testplatform.objectmodel\\16.5.0\\microsoft.testplatform.objectmodel.16.5.0.nupkg.sha512",
     "C:\\Users\\Chest\\.nuget\\packages\\microsoft.testplatform.testhost\\16.5.0\\microsoft.testplatform.testhost.16.5.0.nupkg.sha512",
+    "C:\\Users\\Chest\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512",
     "C:\\Users\\Chest\\.nuget\\packages\\microsoft.win32.primitives\\4.3.0\\microsoft.win32.primitives.4.3.0.nupkg.sha512",
     "C:\\Users\\Chest\\.nuget\\packages\\microsoft.win32.registry\\4.5.0\\microsoft.win32.registry.4.5.0.nupkg.sha512",
     "C:\\Users\\Chest\\.nuget\\packages\\moq\\4.14.5\\moq.4.14.5.nupkg.sha512",
